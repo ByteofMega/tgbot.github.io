@@ -13,10 +13,6 @@ body {
     background: var(--tg-theme-bg-color);
 }
 
-h1, p {
-    color: black;
-}
-
 #main {
     width: 100%;
     padding: 20px;
